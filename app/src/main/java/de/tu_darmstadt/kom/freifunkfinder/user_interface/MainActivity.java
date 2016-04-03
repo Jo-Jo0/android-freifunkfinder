@@ -123,11 +123,6 @@ public class MainActivity extends AppCompatActivity
 
         //FrameLayout instantiation
         arView = (FrameLayout) findViewById(R.id.ar_view);
-
-//<<<<<<< HEAD:app/src/main/java/de/tu_darmstadt/kom/freifunkfinder/user_interface/MainActivity.java
-        //button listener for starting overlay view
-//=======
-//>>>>>>> debf605494804f586b7d98939b55c59832800612:src/main/java/de/tu_darmstadt/kom/freifunkfinder/user_interface/MainActivity.java
         button = (Button) findViewById(R.id.button);
         button.setOnClickListener(new View.OnClickListener() {
             @Override
