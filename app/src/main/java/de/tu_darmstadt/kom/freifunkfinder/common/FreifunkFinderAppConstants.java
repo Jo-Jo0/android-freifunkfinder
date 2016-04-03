@@ -26,10 +26,10 @@ public final class FreifunkFinderAppConstants {
     public static final String APP_NAME = "AR WiFi Finder";
 
     /* developer's info */
-    public static final String DEV_INFO = "Govind, Puneet and Sooraj";
+    public static final String DEV_INFO = "For Freifunk Fulda: Jo-Jo";
 
     /* freifunk url */
-    public static final String FREIFUNK_URL = "https://map.darmstadt.freifunk.net/data/nodes.json";
+    public static final String FREIFUNK_URL = "https://meshviewer.fulda.freifunk.net/data/nodes.json";
 
     /* db name*/
     public static final String DB_NAME = "WifiFinderDB";
