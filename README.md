@@ -1,3 +1,8 @@
+This is a Fork from the original app for usage at Freifunk Fulda
+
+
+
+
 Functional Requirements:-
 1)	Application shall calculate location of the user. 
 2)	Application shall fetch on runtime latest Json with list of available Freifunk Wi-Fi nodes. 
