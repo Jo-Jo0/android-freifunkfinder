@@ -40,6 +40,7 @@ public class AboutActivity extends AppCompatActivity {
         aboutContent.append(" Govind Singh" + ", govind.singh@stud.tu-darmstadt.de, Technical University Darmstadt\n");
         aboutContent.append(" Puneet Arora" + ", puneet.arora@stud.tu-darmstadt.de, Technical University Darmstadt\n");
         aboutContent.append(" Sooraj Mandotti" + ", sooraj.mandotti@stud.tu-darmstadt.de, Technical University Darmstadt\n\n\n");
+        aboutContent.append("Jo-Jo, Freifunk Fulda");
         aboutTextView.setText(aboutContent);
     }
 }
